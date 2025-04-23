@@ -1,2 +1,4 @@
 ¿estás bien?
+
+Copia y pega esta página si no has visto el enlace en el readme.md del proyecto.
  https://gamma.app/docs/Introduccion-a-Git-y-GitHub-po09ml1kjynsa60?mode=doc 
