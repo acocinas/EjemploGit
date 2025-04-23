@@ -63,6 +63,7 @@ Puedes aportar sugerencias, dudas, ejercicios, y ¡mejor aún, soluciones! 🤝
 
 📘 [Pro Git Book (en español)](https://git-scm.com/book/es/v2)  
 📚 [Documentación oficial de Git](https://git-scm.com/doc)
+📄 [Introducción a Git y GitHub - Gamma](https://gamma.app/docs/Introduccion-a-Git-y-GitHub-po09ml1kjynsa60?mode=doc)
 
 🏆 Curso de Git y GitHub para programadores - Oriol Tinoco @SectionOne
 
