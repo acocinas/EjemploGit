@@ -46,9 +46,9 @@ Este proyecto está pensado para ti si estás en la IT Academy y quieres:
 Puedes aportar sugerencias, dudas, ejercicios, y ¡mejor aún, soluciones! 🤝
 
 1. Haz un **fork** del repositorio 🍴  (Esto si no eres colaborador)
-2. Crea una rama con tu propuesta: `git checkout -b mejora-mi-nombre`  
-3. Sube tus cambios: `git push origin mejora-mi-nombre`  
-4. Haz un **pull request** explicando tu contribución 🙌
+2. Crea una rama con tu propuesta: `git checkout -b mejora-mi-nombre` Llámala **_develop/tunombredegithub_** para que no haya duplicidades   
+4. Sube tus cambios: `git push origin mejora-mi-nombre`  
+5. Haz un **pull request** explicando tu contribución 🙌
 ### Esto está explicado dentro del proyecto, con pantallazos 
 ---
 
